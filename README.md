@@ -17,10 +17,15 @@ The modules introduce concepts related to object-oriented programming, such as c
 ## Projects
 
 [CPP00](https://github.com/SimpleLuke/CPP00) : Namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff.
+
 [CPP01](https://github.com/SimpleLuke/CPP01) : Memory allocation, pointers to members, references, switch statement.
+
 [CPP02](https://github.com/SimpleLuke/CPP02) : Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form.
+
 [CPP03](https://github.com/SimpleLuke/CPP03) : Class inheritance.
+
 [CPP04](https://github.com/SimpleLuke/CPP04) : Subtype polymorphism, abstract classes, interfaces.
+
 
 ## Contact
 
