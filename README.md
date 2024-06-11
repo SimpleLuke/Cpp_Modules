@@ -1,4 +1,4 @@
-# Mini Ray Tracer
+# CPP Modules
 
 <!-- TABLE OF CONTENTS -->
 <details>
