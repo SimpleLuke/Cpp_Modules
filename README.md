@@ -26,6 +26,12 @@ The modules introduce concepts related to object-oriented programming, such as c
 
 [CPP04](https://github.com/SimpleLuke/CPP04) : Subtype polymorphism, abstract classes, interfaces.
 
+[CPP05](https://github.com/SimpleLuke/CPP05) : Exceptions, try and catch block.
+
+[CPP06](https://github.com/SimpleLuke/CPP06) : Casting.
+
+[CPP07](https://github.com/SimpleLuke/CPP07) : Templates.
+
 
 ## Contact
 
